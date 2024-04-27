@@ -1,0 +1,13 @@
+{
+	"name": "mwf/process",
+	"title": "Процесс работы",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "process.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

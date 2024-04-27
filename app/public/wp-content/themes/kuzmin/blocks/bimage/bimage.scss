@@ -1,0 +1,23 @@
+.bimage {
+	padding-top: res(70px, 120px);
+	padding-bottom: res(50px, 120px);
+	&__title {
+		text-align: center;
+		font-size: res(28px, 30px);
+		text-transform: uppercase;
+	}
+
+	&__img {
+		max-width: 760px;
+		height: auto;
+		margin: res(30px, 50px) auto 0;
+		@media (width <= 860px) {
+			max-width: 90%;
+		}
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: contain;
+		}
+	}
+}

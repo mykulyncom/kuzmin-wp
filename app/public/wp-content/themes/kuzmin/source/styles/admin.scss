@@ -1,0 +1,26 @@
+#mceu_123,
+#mceu_128,
+#mceu_132,
+#mceu_133,
+#mceu_134,
+#mceu_135 {
+	display: none !important;
+}
+
+.acf-field-wysiwyg .wp-editor-tools {
+	display: none !important;
+}
+
+@media (width >= 1320px) {
+	.interface-complementary-area {
+		width: 400px;
+	}
+}
+
+.acf-postbox .acf-hndle-cog {
+	display: none !important;
+}
+
+.interface-interface-skeleton__sidebar #permalink-manager {
+	display: none!important;
+}

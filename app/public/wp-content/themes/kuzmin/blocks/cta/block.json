@@ -1,0 +1,13 @@
+{
+	"name": "mwf/cta",
+	"title": "Call to action",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "cta.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

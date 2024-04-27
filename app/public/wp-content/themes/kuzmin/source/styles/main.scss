@@ -1,0 +1,15 @@
+@import 'normalize';
+@import 'variables';
+@import 'mixins';
+@import 'fonts';
+@import 'typography';
+@import 'globals';
+
+// libs
+@import '../lib/magnific/magnific-popup.css';
+
+// Parts
+@import './parts/*.scss';
+
+// Blocks
+@import '../../blocks/**/*.scss';

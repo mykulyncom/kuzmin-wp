@@ -1,0 +1,14 @@
+{
+	"name": "mwf/head",
+	"title": "Главный блок",
+	"description": "Главный блок сайта",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "head.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

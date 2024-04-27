@@ -1,0 +1,13 @@
+{
+	"name": "mwf/blist",
+	"title": "В каких случаях обращаться",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "blist.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

@@ -1,0 +1,1088 @@
+[19-Apr-2024 09:20:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MWF\General\get_field() in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php:65
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): MWF\General\Optimization->mwf_admin_bar('')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-settings.php(695): do_action('init')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-config.php(103): require_once('/Users/serhii/L...')
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-load.php(50): require_once('/Users/serhii/L...')
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/admin.php(34): require_once('/Users/serhii/L...')
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/themes.php(10): require_once('/Users/serhii/L...')
+#8 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php on line 65
+[19-Apr-2024 09:20:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[19-Apr-2024 09:20:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[19-Apr-2024 09:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MWF\General\get_field() in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php:65
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): MWF\General\Optimization->mwf_admin_bar('')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-settings.php(695): do_action('init')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-config.php(103): require_once('/Users/serhii/L...')
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-load.php(50): require_once('/Users/serhii/L...')
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(13): require_once('/Users/serhii/L...')
+#7 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#8 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php on line 65
+[19-Apr-2024 09:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MWF\General\get_field() in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php:65
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): MWF\General\Optimization->mwf_admin_bar('')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-settings.php(695): do_action('init')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-config.php(103): require_once('/Users/serhii/L...')
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-load.php(50): require_once('/Users/serhii/L...')
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/admin.php(34): require_once('/Users/serhii/L...')
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/themes.php(10): require_once('/Users/serhii/L...')
+#8 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php on line 65
+[19-Apr-2024 09:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MWF\General\get_field() in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php:65
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): MWF\General\Optimization->mwf_admin_bar('')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-settings.php(695): do_action('init')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-config.php(103): require_once('/Users/serhii/L...')
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-load.php(50): require_once('/Users/serhii/L...')
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(13): require_once('/Users/serhii/L...')
+#7 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#8 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php on line 65
+[19-Apr-2024 09:43:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MWF\General\get_field() in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php:65
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): MWF\General\Optimization->mwf_admin_bar('')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-settings.php(695): do_action('init')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-config.php(103): require_once('/Users/serhii/L...')
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-load.php(50): require_once('/Users/serhii/L...')
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/admin.php(34): require_once('/Users/serhii/L...')
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/index.php(10): require_once('/Users/serhii/L...')
+#8 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php on line 65
+[19-Apr-2024 09:43:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MWF\General\get_field() in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php:65
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): MWF\General\Optimization->mwf_admin_bar('')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-settings.php(695): do_action('init')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-config.php(103): require_once('/Users/serhii/L...')
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-load.php(50): require_once('/Users/serhii/L...')
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(13): require_once('/Users/serhii/L...')
+#7 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#8 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Optimization.php on line 65
+[19-Apr-2024 09:44:05 UTC] PHP Warning:  filemtime(): stat failed for /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/assets/styles/admin.min.css in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Assets.php on line 43
+[19-Apr-2024 09:44:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MWF\General\get_field() in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Setup.php:213
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): MWF\General\Setup->mwf_admin_favicon('')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/admin-header.php(163): do_action('admin_head')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/index.php(137): require_once('/Users/serhii/L...')
+#5 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Setup.php on line 213
+[19-Apr-2024 09:44:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/header.php:20
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template.php(745): load_template('/Users/serhii/L...', true, Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(10): get_header()
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#6 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#7 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/header.php on line 20
+[19-Apr-2024 09:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MWF\General\get_field() in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Setup.php:213
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): MWF\General\Setup->mwf_admin_favicon('')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/admin-header.php(163): do_action('admin_head')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/index.php(137): require_once('/Users/serhii/L...')
+#5 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/General/Setup.php on line 213
+[19-Apr-2024 09:50:55 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 09:51:09 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/textimg/textimg.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(677): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_block_render_template(Array, NULL, true, 2, NULL, Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(651): do_action('acf_block_rende...', Array, '', true, 2, NULL, Array)
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(568): acf_render_block(Array, '', true, 2, NULL, Array)
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(918): acf_rendered_block(Array, '', true, 2, NULL, Array)
+#8 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_ajax_fetch_block('')
+#9 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/admin-ajax.php(192): do_action('wp_ajax_acf/aja...')
+#12 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 09:51:22 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/textimg/textimg.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(677): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_block_render_template(Array, NULL, true, 2, NULL, Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(651): do_action('acf_block_rende...', Array, '', true, 2, NULL, Array)
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(568): acf_render_block(Array, '', true, 2, NULL, Array)
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(918): acf_rendered_block(Array, '', true, 2, NULL, Array)
+#8 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_ajax_fetch_block('')
+#9 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/admin-ajax.php(192): do_action('wp_ajax_acf/aja...')
+#12 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 09:54:18 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 09:59:35 UTC] PHP Fatal error:  Uncaught Error: Class "MWF\Plugins\CustomFields" not found in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Init.php:46
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Init.php(37): MWF\Init::instantiate('MWF\\Plugins\\Cus...')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-bootstrap.php(18): MWF\Init::register_services()
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/functions.php(24): mwf_init()
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-settings.php(663): include('/Users/serhii/L...')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-config.php(103): require_once('/Users/serhii/L...')
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-load.php(50): require_once('/Users/serhii/L...')
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/serhii/L...')
+#7 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Init.php on line 46
+[19-Apr-2024 10:00:00 UTC] WordPress database error Server shutdown in progress for query SELECT wp_users.ID
+				 FROM wp_users INNER JOIN wp_usermeta ON ( wp_users.ID = wp_usermeta.user_id )
+				 WHERE 1=1 AND ( 
+  ( 
+    ( wp_usermeta.meta_key = 'wp_capabilities' AND wp_usermeta.meta_value LIKE '%\"administrator\"%' )
+  )
+)
+				 ORDER BY user_login ASC
+				  made by include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->run_command_and_exit, WP_CLI\Runner->run_command, WP_CLI\Dispatcher\Subcommand->invoke, call_user_func, WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure}, call_user_func, User_Command->list_, get_users, WP_User_Query->__construct, WP_User_Query->query
+[19-Apr-2024 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Class "MWF\Plugins\CustomFields" not found in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Init.php:46
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Init.php(37): MWF\Init::instantiate('MWF\\Plugins\\Cus...')
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-bootstrap.php(18): MWF\Init::register_services()
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/functions.php(24): mwf_init()
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-settings.php(663): include('/Users/serhii/L...')
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-config.php(103): require_once('/Users/serhii/L...')
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-load.php(50): require_once('/Users/serhii/L...')
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/admin.php(34): require_once('/Users/serhii/L...')
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/index.php(10): require_once('/Users/serhii/L...')
+#8 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Init.php on line 46
+[19-Apr-2024 11:27:16 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[19-Apr-2024 11:27:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 15
+[19-Apr-2024 11:27:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 19
+[19-Apr-2024 11:27:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 46
+[19-Apr-2024 11:27:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 79
+[19-Apr-2024 11:27:18 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:27:18 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:27:18 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 15
+[19-Apr-2024 11:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 19
+[19-Apr-2024 11:44:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 46
+[19-Apr-2024 11:44:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 79
+[19-Apr-2024 11:44:46 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:44:46 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:44:46 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:44:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 15
+[19-Apr-2024 11:44:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 19
+[19-Apr-2024 11:44:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 15
+[19-Apr-2024 11:44:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 19
+[19-Apr-2024 11:44:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 46
+[19-Apr-2024 11:44:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 79
+[19-Apr-2024 11:44:52 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:44:52 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:44:52 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 15
+[19-Apr-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/footer.php on line 19
+[19-Apr-2024 11:45:28 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:45:39 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:46:21 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:46:37 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:00 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:07 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:09 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:16 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:16 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:16 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:23 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:23 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:23 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:42 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:42 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:42 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:47:42 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:53:20 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:53:32 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:53:32 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:53:32 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:53:33 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:53:33 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:55:09 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:55:09 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:55:09 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:55:22 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:55:42 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:55:52 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:55:53 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:55:54 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:55:56 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 11:56:00 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:03:49 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:05:08 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:05:20 UTC] PHP Warning:  Undefined variable $favicon_light in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/header.php on line 23
+[19-Apr-2024 12:05:20 UTC] PHP Warning:  Undefined variable $favicon_light in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/header.php on line 23
+[19-Apr-2024 12:05:20 UTC] PHP Warning:  Undefined variable $favicon_light in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/header.php on line 23
+[19-Apr-2024 12:05:20 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:05:20 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:05:30 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:05:30 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:05:30 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:07:03 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:07:03 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:07:03 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:07:11 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:07:27 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:10 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:10 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:11 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:13 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:13 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:13 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:15 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:15 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:15 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:16 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:16 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 12:30:16 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 14:20:38 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 14:21:30 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 14:21:53 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[19-Apr-2024 14:22:13 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[20-Apr-2024 04:29:33 UTC] PHP Warning:  Array to string conversion in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 46
+[20-Apr-2024 04:29:33 UTC] PHP Warning:  Array to string conversion in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 46
+[20-Apr-2024 04:29:33 UTC] PHP Warning:  Array to string conversion in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 46
+[20-Apr-2024 05:38:05 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class MWF\General\Assets does not have a method "mwf_editor_script" in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/edit-form-blocks.php(272): do_action('enqueue_block_e...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/post.php(187): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php on line 324
+[20-Apr-2024 07:05:44 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/danger/danger.php(12): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(677): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_block_render_template(Array, '', false, 2, Object(WP_Block), Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(651): do_action('acf_block_rende...', Array, '', false, 2, Object(WP_Block), Array)
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(568): acf_render_block(Array, '', false, 2, Object(WP_Block), Array)
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(504): acf_rendered_block(Array, '', false, 2, Object(WP_Block))
+#8 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-block.php(463): acf_render_block_callback(Array, '', Object(WP_Block))
+#9 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1705): WP_Block->render()
+#10 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1743): render_block(Array)
+#11 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): do_blocks('<!-- wp:mwf/hea...')
+#12 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters('<!-- wp:mwf/hea...', Array)
+#13 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(1865): apply_filters('the_content', '<!-- wp:mwf/hea...')
+#14 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(952): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#15 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#16 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#17 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#18 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api.php(428): WP_REST_Server->serve_request('/wp/v2/pages/2')
+#19 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#20 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#21 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#22 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#23 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#24 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php(1336): WP->main('')
+#25 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(16): wp()
+#26 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#27 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[20-Apr-2024 07:06:35 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/danger/danger.php(12): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(677): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_block_render_template(Array, '', false, 82, Object(WP_Block), Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(651): do_action('acf_block_rende...', Array, '', false, 82, Object(WP_Block), Array)
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(568): acf_render_block(Array, '', false, 82, Object(WP_Block), Array)
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(504): acf_rendered_block(Array, '', false, 82, Object(WP_Block))
+#8 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-block.php(463): acf_render_block_callback(Array, '', Object(WP_Block))
+#9 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1705): WP_Block->render()
+#10 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1743): render_block(Array)
+#11 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): do_blocks('<!-- wp:mwf/hea...')
+#12 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters('<!-- wp:mwf/hea...', Array)
+#13 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php(632): apply_filters('the_content', '<!-- wp:mwf/hea...')
+#14 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php(451): WP_REST_Revisions_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#15 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php(253): WP_REST_Autosaves_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#16 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Autosaves_Controller->create_item(Object(WP_REST_Request))
+#17 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#18 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#19 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/rest-api.php(428): WP_REST_Server->serve_request('/wp/v2/pages/2/...')
+#20 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#21 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#22 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#23 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#24 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#25 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php(1336): WP->main('')
+#26 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(16): wp()
+#27 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#28 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[20-Apr-2024 08:37:02 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/cta/cta.php:26
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(677): include()
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_block_render_template(Array, '', false, 2, Object(WP_Block), Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(651): do_action('acf_block_rende...', Array, '', false, 2, Object(WP_Block), Array)
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(568): acf_render_block(Array, '', false, 2, Object(WP_Block), Array)
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(504): acf_rendered_block(Array, '', false, 2, Object(WP_Block))
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-block.php(463): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1705): WP_Block->render()
+#9 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1743): render_block(Array)
+#10 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): do_blocks('<!-- wp:mwf/hea...')
+#11 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters('<!-- wp:mwf/hea...', Array)
+#12 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/post-template.php(256): apply_filters('the_content', '<!-- wp:mwf/hea...')
+#13 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/page.php(14): the_content()
+#14 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#15 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#16 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#17 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/cta/cta.php on line 26
+[20-Apr-2024 08:37:20 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/cta/cta.php:26
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(677): include()
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_block_render_template(Array, '', false, 2, Object(WP_Block), Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(651): do_action('acf_block_rende...', Array, '', false, 2, Object(WP_Block), Array)
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(568): acf_render_block(Array, '', false, 2, Object(WP_Block), Array)
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(504): acf_rendered_block(Array, '', false, 2, Object(WP_Block))
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-block.php(463): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1705): WP_Block->render()
+#9 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1743): render_block(Array)
+#10 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): do_blocks('<!-- wp:mwf/hea...')
+#11 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters('<!-- wp:mwf/hea...', Array)
+#12 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/post-template.php(256): apply_filters('the_content', '<!-- wp:mwf/hea...')
+#13 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/page.php(14): the_content()
+#14 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#15 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#16 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#17 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/cta/cta.php on line 26
+[20-Apr-2024 08:37:48 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/cta/cta.php:26
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(677): include()
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_block_render_template(Array, '', false, 2, Object(WP_Block), Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(651): do_action('acf_block_rende...', Array, '', false, 2, Object(WP_Block), Array)
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(568): acf_render_block(Array, '', false, 2, Object(WP_Block), Array)
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(504): acf_rendered_block(Array, '', false, 2, Object(WP_Block))
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-block.php(463): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1705): WP_Block->render()
+#9 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1743): render_block(Array)
+#10 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): do_blocks('<!-- wp:mwf/hea...')
+#11 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters('<!-- wp:mwf/hea...', Array)
+#12 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/post-template.php(256): apply_filters('the_content', '<!-- wp:mwf/hea...')
+#13 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/page.php(14): the_content()
+#14 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#15 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#16 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#17 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/cta/cta.php on line 26
+[20-Apr-2024 08:38:28 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/cta/cta.php:27
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(677): include()
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): acf_block_render_template(Array, '', false, 2, Object(WP_Block), Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(651): do_action('acf_block_rende...', Array, '', false, 2, Object(WP_Block), Array)
+#5 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(568): acf_render_block(Array, '', false, 2, Object(WP_Block), Array)
+#6 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(504): acf_rendered_block(Array, '', false, 2, Object(WP_Block))
+#7 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-block.php(463): acf_render_block_callback(Array, '', Object(WP_Block))
+#8 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1705): WP_Block->render()
+#9 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/blocks.php(1743): render_block(Array)
+#10 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): do_blocks('<!-- wp:mwf/hea...')
+#11 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters('<!-- wp:mwf/hea...', Array)
+#12 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/post-template.php(256): apply_filters('the_content', '<!-- wp:mwf/hea...')
+#13 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/page.php(14): the_content()
+#14 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#15 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#16 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#17 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/cta/cta.php on line 27
+[20-Apr-2024 16:36:25 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wpdb.php on line 1987
+[21-Apr-2024 06:53:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wpdb.php on line 1987
+[21-Apr-2024 06:56:48 UTC] PHP Notice:  Функция WP_Block_Type_Registry::register вызвана неправильно. Тип блока "mwf/example" уже зарегистрирован. Дополнительную информацию можно найти на странице <a>&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 5.0.0.) in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php on line 6078
+[21-Apr-2024 06:56:48 UTC] PHP Notice:  Функция WP_Block_Type_Registry::register вызвана неправильно. Тип блока "mwf/example" уже зарегистрирован. Дополнительную информацию можно найти на странице <a>&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 5.0.0.) in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php on line 6078
+[21-Apr-2024 07:30:30 UTC] PHP Warning:  Array to string conversion in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 32
+[21-Apr-2024 07:30:30 UTC] PHP Warning:  Array to string conversion in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 32
+[21-Apr-2024 07:30:30 UTC] PHP Warning:  Array to string conversion in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 32
+[21-Apr-2024 07:32:29 UTC] PHP Parse error:  syntax error, unexpected token "endforeach", expecting end of file in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 37
+[21-Apr-2024 07:32:54 UTC] PHP Parse error:  syntax error, unexpected token "endforeach", expecting end of file in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 37
+[21-Apr-2024 07:43:53 UTC] PHP Parse error:  syntax error, unexpected double-quoted string " class=", expecting "," or ";" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 56
+[21-Apr-2024 07:46:32 UTC] PHP Warning:  Undefined array key "link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 57
+[21-Apr-2024 07:46:32 UTC] PHP Warning:  Undefined array key "link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 57
+[21-Apr-2024 07:46:32 UTC] PHP Warning:  Undefined array key "link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 57
+[21-Apr-2024 07:46:46 UTC] PHP Warning:  Undefined array key "link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 57
+[21-Apr-2024 07:46:46 UTC] PHP Warning:  Undefined array key "link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 57
+[21-Apr-2024 07:46:46 UTC] PHP Warning:  Undefined array key "link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 57
+[21-Apr-2024 11:31:27 UTC] PHP Notice:  Функция WP_Block_Type_Registry::register вызвана неправильно. Тип блока "mwf/example" уже зарегистрирован. Дополнительную информацию можно найти на странице <a>&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 5.0.0.) in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php on line 6078
+[21-Apr-2024 13:13:20 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[21-Apr-2024 13:13:28 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[21-Apr-2024 13:13:29 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[21-Apr-2024 13:15:35 UTC] PHP Fatal error:  Uncaught TypeError: mwf_webp(): Return value must be of type string, null returned in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php:37
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/404.php(23): mwf_webp(NULL)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/template-loader.php(106): include('/Users/serhii/L...')
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-blog-header.php(19): require_once('/Users/serhii/L...')
+#3 /Users/serhii/Local Sites/kuzmin/app/public/index.php(17): require('/Users/serhii/L...')
+#4 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Helpers/mwf-functions.php on line 37
+[21-Apr-2024 13:32:05 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting "(" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/reviews/reviews.php on line 30
+[21-Apr-2024 13:32:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/reviews/reviews.php on line 44
+[21-Apr-2024 14:12:11 UTC] PHP Warning:  Undefined array key "" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/reviews/reviews.php on line 58
+[21-Apr-2024 14:36:55 UTC] Ошибка перепланировки события Cron для хука action_scheduler_run_queue, код ошибки: invalid_schedule, сообщение об ошибке: Планировщик событий не существует., данные: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[21-Apr-2024 15:09:05 UTC] Ошибка перепланировки события Cron для хука action_scheduler_run_queue, код ошибки: invalid_schedule, сообщение об ошибке: Планировщик событий не существует., данные: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[21-Apr-2024 15:30:47 UTC] PHP Warning:  Undefined array key "" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/process/process.php on line 24
+[21-Apr-2024 15:30:47 UTC] PHP Warning:  Undefined array key "" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/process/process.php on line 24
+[21-Apr-2024 15:30:47 UTC] PHP Warning:  Undefined array key "" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/process/process.php on line 24
+[21-Apr-2024 15:30:47 UTC] PHP Warning:  Undefined array key "" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/process/process.php on line 24
+[21-Apr-2024 15:30:47 UTC] PHP Warning:  Undefined array key "" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/process/process.php on line 24
+[21-Apr-2024 17:06:14 UTC] Multilingual Contact Form 7 with Polylang plugin_activation
+[22-Apr-2024 02:45:44 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wpdb.php on line 1987
+[22-Apr-2024 03:14:00 UTC] PHP Warning:  Undefined array key "shortcode" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 21
+[22-Apr-2024 03:15:16 UTC] PHP Warning:  Undefined array key "shortcode" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 21
+[22-Apr-2024 04:17:51 UTC] PHP Notice:  Функция WP_Block_Type_Registry::register вызвана неправильно. Тип блока "mwf/example" уже зарегистрирован. Дополнительную информацию можно найти на странице <a>&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 5.0.0.) in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php on line 6078
+[22-Apr-2024 04:18:42 UTC] PHP Notice:  Функция WP_Block_Type_Registry::register вызвана неправильно. Тип блока "mwf/example" уже зарегистрирован. Дополнительную информацию можно найти на странице <a>&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 5.0.0.) in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php on line 6078
+[22-Apr-2024 04:18:46 UTC] PHP Notice:  Функция WP_Block_Type_Registry::register вызвана неправильно. Тип блока "mwf/example" уже зарегистрирован. Дополнительную информацию можно найти на странице <a>&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 5.0.0.) in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php on line 6078
+[22-Apr-2024 04:33:39 UTC] PHP Warning:  Undefined array key "answer" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/faq/faq.php on line 21
+[22-Apr-2024 04:33:39 UTC] PHP Warning:  Undefined array key "answer" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/faq/faq.php on line 21
+[22-Apr-2024 04:33:39 UTC] PHP Warning:  Undefined array key "answer" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/faq/faq.php on line 21
+[22-Apr-2024 04:33:39 UTC] PHP Warning:  Undefined array key "answer" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/faq/faq.php on line 21
+[22-Apr-2024 05:44:58 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 28
+[22-Apr-2024 05:44:58 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 05:45:11 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 28
+[22-Apr-2024 05:45:11 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 05:45:11 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 28
+[22-Apr-2024 05:45:11 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 05:45:17 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 05:45:20 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 05:45:31 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 05:45:31 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 05:45:33 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 05:45:52 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 05:46:52 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/head/head.php on line 49
+[22-Apr-2024 06:48:37 UTC] PHP Warning:  Undefined array key "" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/contacts/contacts.php on line 31
+[22-Apr-2024 07:28:00 UTC] Multilingual Contact Form 7 with Polylang plugin_deactivation
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/cache/wp-rocket/index.html
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/cache/wp-rocket/kuzmin.local/index.html
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/cache/wp-rocket/kuzmin.local/index.html_gzip
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/cache/min/index.html
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/cache/busting/index.html
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/cache/critical-css/index.html
+[22-Apr-2024 07:28:08 UTC] File does not exist or is outside restricted basedir. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/cache/used-css
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/wp-rocket-config/index.html
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/wp-rocket-config/dynamic-lists-incompatible-plugins.json
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/wp-rocket-config/dynamic-lists-delayjs.json
+[22-Apr-2024 07:28:08 UTC] String expected. input:/Users/serhii/Local Sites/kuzmin/app/public/wp-content/wp-rocket-config/dynamic-lists.json
+[22-Apr-2024 07:57:12 UTC] PHP Notice:  Функция WP_Block_Type_Registry::register вызвана неправильно. Тип блока "mwf/example" уже зарегистрирован. Дополнительную информацию можно найти на странице <a>&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 5.0.0.) in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php on line 6078
+[22-Apr-2024 07:57:12 UTC] PHP Notice:  Функция WP_Block_Type_Registry::register вызвана неправильно. Тип блока "mwf/example" уже зарегистрирован. Дополнительную информацию можно найти на странице <a>&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 5.0.0.) in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/functions.php on line 6078
+[22-Apr-2024 08:30:49 UTC] PHP Warning:  Undefined array key "menu__link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 34
+[22-Apr-2024 08:30:49 UTC] PHP Warning:  Undefined array key "menu__title" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 35
+[22-Apr-2024 08:30:49 UTC] PHP Warning:  Undefined array key "menu__link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 34
+[22-Apr-2024 08:30:49 UTC] PHP Warning:  Undefined array key "menu__title" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 35
+[22-Apr-2024 08:30:49 UTC] PHP Warning:  Undefined array key "menu__link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 34
+[22-Apr-2024 08:30:49 UTC] PHP Warning:  Undefined array key "menu__title" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 35
+[22-Apr-2024 08:30:49 UTC] PHP Warning:  Undefined array key "menu__link" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 34
+[22-Apr-2024 08:30:49 UTC] PHP Warning:  Undefined array key "menu__title" in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 35
+[22-Apr-2024 10:38:40 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 34
+[22-Apr-2024 10:38:57 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 34
+[22-Apr-2024 10:38:59 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/header/header.php on line 34
+[22-Apr-2024 10:42:17 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/danger/danger.php on line 35
+[22-Apr-2024 10:42:59 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/danger/danger.php on line 35
+[22-Apr-2024 10:43:59 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/danger/danger.php on line 35
+[22-Apr-2024 10:47:32 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/blist/blist.php on line 20
+[22-Apr-2024 10:47:40 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/blist/blist.php on line 20
+[22-Apr-2024 10:48:04 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/blist/blist.php on line 20
+[22-Apr-2024 10:48:08 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/blist/blist.php on line 20
+[22-Apr-2024 10:49:22 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 30
+[22-Apr-2024 10:49:22 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 60
+[22-Apr-2024 10:49:31 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 30
+[22-Apr-2024 10:49:31 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 60
+[22-Apr-2024 10:49:39 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 30
+[22-Apr-2024 10:49:39 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 60
+[22-Apr-2024 10:49:43 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 30
+[22-Apr-2024 10:49:43 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 60
+[22-Apr-2024 10:49:51 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 30
+[22-Apr-2024 10:49:51 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 60
+[22-Apr-2024 10:49:54 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 30
+[22-Apr-2024 10:49:54 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 60
+[22-Apr-2024 10:50:01 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 30
+[22-Apr-2024 10:50:01 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 60
+[22-Apr-2024 10:50:02 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 30
+[22-Apr-2024 10:50:02 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 60
+[22-Apr-2024 10:51:00 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/about/about.php on line 60
+[22-Apr-2024 10:56:07 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/process/process.php on line 23
+[22-Apr-2024 10:56:13 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/process/process.php on line 23
+[22-Apr-2024 10:56:22 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/process/process.php on line 23
+[22-Apr-2024 10:57:31 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:35 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:36 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:36 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:38 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:39 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:40 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:41 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:42 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:51 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:57:58 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:58:01 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:58:06 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:59:01 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 10:59:02 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/formtext/formtext.php on line 28
+[22-Apr-2024 11:00:44 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/blocks/faq/faq.php on line 18
+[22-Apr-2024 11:52:57 UTC] Ошибка перепланировки события Cron для хука action_scheduler_run_queue, код ошибки: invalid_schedule, сообщение об ошибке: Планировщик событий не существует., данные: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Apr-2024 12:42:59 UTC] Ошибка перепланировки события Cron для хука action_scheduler_run_queue, код ошибки: invalid_schedule, сообщение об ошибке: Планировщик событий не существует., данные: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Apr-2024 13:26:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: is_array() expects exactly 1 argument, 2 given in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Plugins/CustomFields.php:91
+Stack trace:
+#0 /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Plugins/CustomFields.php(91): is_array('acf-icon-picker...', Array)
+#1 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-hook.php(324): MWF\Plugins\CustomFields->mwf_hide_acf(Array)
+#2 /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#3 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/includes/class-wp-plugins-list-table.php(104): apply_filters('all_plugins', Array)
+#4 /Users/serhii/Local Sites/kuzmin/app/public/wp-admin/plugins.php(553): WP_Plugins_List_Table->prepare_items()
+#5 {main}
+  thrown in /Users/serhii/Local Sites/kuzmin/app/public/wp-content/themes/kuzmin/core/Plugins/CustomFields.php on line 91
+[22-Apr-2024 13:26:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[22-Apr-2024 13:26:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[23-Apr-2024 05:35:12 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/serhii/Local Sites/kuzmin/app/public/wp-includes/class-wpdb.php on line 1987

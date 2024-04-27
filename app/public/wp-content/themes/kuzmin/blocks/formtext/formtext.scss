@@ -1,0 +1,86 @@
+.formtext {
+	padding-bottom: 40px;
+
+	&__inner {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 60px;
+		@media (width <= 768px) {
+			display: flex;
+			flex-direction: column;
+			gap: 40px;
+		}
+	}
+
+	&__form {
+		box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.5);
+		max-width: 560px;
+		justify-self: flex-end;
+		padding: res(40px, 90px) res(15px, 45px);
+		@media (width <= 768px) {
+			margin: 0 auto;
+		}
+
+		&-title {
+			font-size: res(22px, 28px);
+			margin-bottom: res(20px, 26px);
+		}
+
+		&-descr {
+			font-size: res(17px, 19px);
+			margin-bottom: res(30px, 33px);
+		}
+
+		&-over {
+			margin-bottom: 14px;
+			@media (width <= 768px) {
+				font-size: 15px;
+			}
+		}
+
+		.mwf-button {
+			font-size: 16px;
+			text-transform: none;
+			width: 100%;
+			padding: 10px;
+		}
+
+		&-under {
+			font-size: res(13px, 14px);
+			font-weight: 500;
+			margin-top: 16px;
+			line-height: res(20px, 25px);
+		}
+	}
+
+	&__right {
+		max-width: 584px;
+		padding-top: res(20px, 90px);
+		@media (width <= 768px) {
+			max-width: 100%;
+		}
+	}
+
+	&__title {
+		font-size: res(18px, 20px);
+		font-weight: 700;
+		text-transform: uppercase;
+		margin-bottom: res(25px, 46px);
+	}
+
+	&__list {
+		list-style: disc;
+		margin-left: 19px;
+	}
+
+	&__item {
+		line-height: res(22px, 28px);
+		font-size: res(15px, 17px);
+		&:not(:last-child) {
+			margin-bottom: 6px;
+			@media (width <= 767px) {
+				margin-bottom: 10px;
+			}
+		}
+	}
+}

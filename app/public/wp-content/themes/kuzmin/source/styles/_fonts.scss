@@ -1,0 +1,19 @@
+// 100 - Thin (Hailine)
+// 200 - Extra Light (Ultra Light)
+// 300 - Light
+// 350 - Book
+// 400 - Normal (Regular)
+// 500 - Medium
+// 600 - SemiBold (DemiBold)
+// 700 - Bold
+// 800 - ExtraBold (UltraBold)
+// 900 - Black (Heavy)
+// 950 - ExtraBlack (UltraBlack)
+// https://anyconv.com/ttf-to-woff2-converter/
+// https://transfonter.org/
+
+@include font('Montserrat', 'Montserrat-Regular', 400);
+@include font('Montserrat', 'Montserrat-Medium', 500);
+@include font('Montserrat', 'Montserrat-SemiBold', 600);
+@include font('Montserrat', 'Montserrat-Bold', 700);
+@include font('Montserrat', 'Montserrat-Black', 900);

@@ -1,0 +1,13 @@
+{
+	"name": "mwf/header",
+	"title": "Шапка сайта",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "header.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "mwf/danger",
+	"title": "Что вам грозит",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "danger.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

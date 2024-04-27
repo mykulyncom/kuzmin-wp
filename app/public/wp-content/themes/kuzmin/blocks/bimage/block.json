@@ -1,0 +1,13 @@
+{
+	"name": "mwf/bimage",
+	"title": "Изображение с заголовком",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "bimage.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

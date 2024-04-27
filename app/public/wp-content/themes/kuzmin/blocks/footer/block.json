@@ -1,0 +1,13 @@
+{
+	"name": "mwf/footer",
+	"title": "Футер",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "footer.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

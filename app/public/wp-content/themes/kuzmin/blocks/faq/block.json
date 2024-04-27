@@ -1,0 +1,13 @@
+{
+	"name": "mwf/faq",
+	"title": "Частые вопросы",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "faq.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

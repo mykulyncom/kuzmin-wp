@@ -1,0 +1,1 @@
+!function(){"use strict";var t=document.querySelectorAll(".data-image");(function(){t.forEach((function(t){var e=t.getAttribute("data-image");t.style.backgroundImage="url(".concat(e,")")}))})(),console.log("editor")}();

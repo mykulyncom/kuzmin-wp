@@ -1,0 +1,13 @@
+{
+	"name": "mwf/reviews",
+	"title": "Отзывы",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "reviews.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

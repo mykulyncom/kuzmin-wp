@@ -1,0 +1,14 @@
+{
+	"name": "mwf/tblock",
+	"title": "Текстовый блок",
+	"description": "Текстовый блок",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "tblock.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<path id="BackgroundShape" fill="#efefef" stroke="none" d="…" />
+	</defs>
+	<!--swp-acf-si:IconTwitter {"title":"Twitter"}-->
+	<symbol id="IconTwitter" viewBox="0 0 256 256">
+		<use xlink:href="#BackgroundShape" />
+		<path fill="currentColor" stroke="none" d="…"/>
+	</symbol>
+	<symbol id="IconFacebook" viewBox="0 0 256 256">
+		<!-- swp-acf-si:IconFacebook {"title":"Facebook", "default_color":"#3b5998"} -->
+		<use xlink:href="#BackgroundShape" />
+		<g fill="currentColor" stroke="none">
+			<path d="…"/>
+			<path d="…"/>
+		</g>
+	</symbol>
+</svg>

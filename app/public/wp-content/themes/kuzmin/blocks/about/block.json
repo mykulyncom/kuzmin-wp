@@ -1,0 +1,13 @@
+{
+	"name": "mwf/about",
+	"title": "About",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "about.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

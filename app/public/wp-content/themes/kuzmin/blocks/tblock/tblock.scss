@@ -1,0 +1,13 @@
+.tblock {
+	padding: res(32px, 44px) 0;
+	background: var(--color-accent);
+	color: var(--color-white);
+
+	&__text {
+		font-size: res(20px, 30px);
+		font-weight: 700;
+		line-height: 140%;
+		text-align: center;
+		text-wrap: balance;
+	}
+}

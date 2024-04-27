@@ -1,0 +1,97 @@
+.contacts {
+	padding-bottom: 24px;
+	&__title {
+		text-align: center;
+		font-size: res(31px, 40px);
+		&::before {
+			margin: 0 auto 10px;
+		}
+	}
+	.icon {
+		flex-shrink: 0;
+		margin-right: 16px;
+		svg {
+			width: 15px;
+			height: 15px;
+
+			path {
+				fill: var(--color-accent-2);
+			}
+		}
+	}
+
+	&__inner {
+		max-width: 896px;
+		margin: 36px auto 0;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 20px;
+		@media (width <= 620px) {
+			display: flex;
+			flex-direction: column;
+		}
+	}
+
+	&__left {
+		@media (width <= 620px) {
+			text-align: center;
+		}
+	}
+
+	&__info {
+		&-title {
+			font-size: res(17px, 19px);
+			margin-bottom: 22px;
+		}
+	}
+
+	&__list {
+		@media (width <= 620px) {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+	}
+
+	&__item {
+		font-size: res(14px, 15px);
+		font-weight: 600;
+		display: flex;
+		align-items: flex-start;
+		margin-bottom: 22px;
+		max-width: 290px;
+		line-height: 25px;
+		@media (width <= 620px) {
+			max-width: 256px;
+		}
+	}
+
+	&__form {
+		&-title {
+			font-size: 19px;
+			margin-bottom: 22px;
+			@media (width <= 620px) {
+				text-align: center;
+			}
+		}
+		&-descr {
+			margin-bottom: 40px;
+			line-height: 160%;
+			@media (width <= 620px) {
+				text-align: center;
+			}
+
+		}
+		.mwf-button {
+			width: 100%;
+			padding: 10px;
+			text-transform: none;
+			font-size: 16px;
+		}
+		.wpcf7-form-control-wrap[data-name="your-phone"] {
+			input.mwf-input {
+				margin-bottom: 0!important;
+			}
+		}
+	}
+}

@@ -1,0 +1,136 @@
+.hero {
+	padding-top: 199px;
+	padding-bottom: 60px;
+	color: var(--color-white);
+	position: relative;
+
+	.container {
+		position: relative;
+		z-index: 1;
+	}
+
+	&__title {
+		font-size: res(30px, 60px);
+		font-weight: 700;
+		text-align: center;
+		padding-top: 40px;
+		line-height: 113%;
+		span {
+			color: var(--color-accent)
+		}
+	}
+
+	&__list {
+		&-title {
+			font-size: res(28px, 35px);
+			margin-bottom: 30px;
+			margin-top: res(90px, 154px);
+			margin-left: res(23px, 32px);
+		}
+
+		&-item {
+			display: flex;
+			align-items: center;
+			font-size: res(16px, 24px);
+			font-weight: 500;
+			&:not(:last-child) {
+				margin-bottom: 33px;
+			}
+
+			&::before {
+				content: '';
+				background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 22 22' fill='none'%3E%3Ccircle cx='10.6731' cy='11.2956' r='10.4319' fill='%23CF9455'%3E%3C/circle%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M7.05859 17.2461L8.17257 18.3233L15.4405 11.2956L8.17257 4.26788L7.0586 5.34503L13.2126 11.2956L7.05859 17.2461Z' fill='white'%3E%3C/path%3E%3C/svg%3E");
+				width: 22px;
+				height: 22px;
+				display: block;
+				margin-right: 12px;
+				flex-shrink: 0;
+				background-size: contain;
+				@media (width <= 480px) {
+					width: 15px;
+					height: 15px;
+					margin-right: 8px;
+				}
+			}
+		}
+	}
+
+	&__btns {
+		margin-top: res(42px, 84px);
+		margin-left: res(23px, 38px);
+		display: flex;
+		@media (width <= 768px) {
+			flex-direction: column;
+			align-items: center;
+			margin-left: 0;
+		}
+	}
+
+	&__price {
+		margin-left: 34px;
+		@media (width <= 780px) {
+			margin-left: 25px;
+		}
+		@media (width <= 768px) {
+			display: none;
+		}
+	}
+
+	&__call {
+		display: none;
+		@media (width <= 768px) {
+			margin-top: 23px;
+			display: inline-block;
+		}
+	}
+
+}
+
+.badge {
+	font-size: 14px;
+	line-height: 120%;
+	color: #fff;
+	width: max-content;
+	margin: 0 auto;
+	display: flex;
+	@media (width <= 360px) {
+		font-size: 12px;
+	}
+
+	&__item {
+		padding: 0 10px;
+		display: flex;
+		align-items: center;
+		text-align: left;
+		font-weight: 700;
+		&:first-child {
+			border-right: 1px solid #fff;
+			padding-left: 0;
+		}
+		&:last-child {
+			padding-right: 0;
+		}
+
+		&-text {
+			text-align: left;
+			span {
+				display: block;
+			}
+		}
+	}
+
+	.icon {
+		width: 20px;
+		height: 20px;
+		margin-right: 10px;
+
+		svg {
+			width: 20px;
+			height: 20px;
+
+			path {
+				fill: var(--color-red);
+			}
+		}
+	}
+}

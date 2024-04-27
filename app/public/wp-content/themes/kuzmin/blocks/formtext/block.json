@@ -1,0 +1,13 @@
+{
+	"name": "mwf/formtext",
+	"title": "Форма с текстом",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "formtext.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}

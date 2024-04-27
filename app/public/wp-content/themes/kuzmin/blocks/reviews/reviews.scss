@@ -1,0 +1,91 @@
+.reviews {
+	padding-top: res(50px, 77px);
+	padding-bottom: res(50px, 70px);
+	position: relative;
+
+	&__bg {
+		img {
+			object-fit: contain;
+			@media (width <= 767px) {
+				object-fit: cover;
+			}
+		}
+	}
+
+	&__title {
+		width: max-content;
+		margin-inline: auto;
+		font-size: 40px;
+
+		&::before {
+			margin: 0 auto 6px;
+		}
+	}
+
+	&__slider {
+		margin-top: 40px;
+	}
+
+	&__btn {
+		width: max-content;
+		margin: res(40px, 70px) auto 0;
+	}
+}
+.swiper {
+	&-button {
+		&-prev,
+		&-next {
+			@media (width <= 959px) {
+				display: none!important;
+			}
+			&::after {
+				display: none;
+				visibility: hidden;
+			}
+			.icon {
+				color: var(--color-dark)!important;
+				width: 25px;
+				height: 25px;
+			}
+		}
+		&-prev {
+			.icon {
+				transform: rotate(-180deg);
+			}
+		}
+	}
+	&-slide {
+		display: block;
+		&::after {
+			content: '';
+			width: 100px;
+			height: 100px;
+			@include abs-center;
+			background: url("data:image/svg+xml,%3Csvg fill='%23fff' height='800px' width='800px' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 512 512' xml:space='preserve'%3E%3Cg id='SVGRepo_bgCarrier' stroke-width='0'/%3E%3Cg id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cg id='SVGRepo_iconCarrier'%3E%3Cg%3E%3Cg%3E%3Cpath d='M256,0C114.608,0,0,114.608,0,256s114.608,256,256,256s256-114.608,256-256S397.392,0,256,0z M256,496 C123.664,496,16,388.336,16,256S123.664,16,256,16s240,107.664,240,240S388.336,496,256,496z'/%3E%3C/g%3E%3C/g%3E%3Cg%3E%3Cg%3E%3Cpolygon points='189.776,141.328 189.776,370.992 388.672,256.16 '/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+			z-index: 2;
+			opacity: .6;
+			background-size: contain;
+			filter: drop-shadow(1px 1px 4px var(--color-dark));
+		}
+		img {
+			position: relative;
+			width: 100%;
+			height: auto;
+			object-fit: cover;
+			object-position: center;
+			z-index: 1;
+		}
+	}
+
+	&-pagination {
+		margin-top: 10px;
+		height: 20px;
+		position: static!important;
+
+		&-bullet {
+			&-active {
+				background: var(--color-dark)!important;
+			}
+		}
+	}
+}

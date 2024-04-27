@@ -1,0 +1,13 @@
+{
+	"name": "mwf/contacts",
+	"title": "Контакты",
+	"category": "mwf-blocks",
+	"icon": "superhero",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "contacts.php"
+	},
+	"supports": {
+		"align": ["none"]
+	}
+}
